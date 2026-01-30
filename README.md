@@ -20,5 +20,3 @@ Sr Frontend Engineer @ Apple (Contract), X-Broadcom, & X-Accenture Software
 ### 🛠️ My Tech Stack
 
 `JavaScript`, `TypeScript`, `HTML5`, `CSS3`, `React.js`, `React-Query`, `Jest`, `Playwright`, `Git`
-
-[React](https://img.shields.io)
