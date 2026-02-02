@@ -1,7 +1,11 @@
 ## Hi, I'm Spandan Chatterjee 👋
 
-Sr Frontend Engineer @ Apple (Contract), X-Broadcom, & X-Accenture Software
 
+<p><em>Sr Frontend Engineer @ Apple (Contract)
+</a>, X-Broadcom, & X-Accenture Software
+</em></p>
+
+[![Spandan-LinkedIn](https://img.shields.io/badge/dylan310-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-chatterjee-frontend/)
 ---
 
 
