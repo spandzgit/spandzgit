@@ -5,7 +5,7 @@
 </a>, X-Broadcom, & X-Accenture Software
 </em></p>
 
-[![Spandan-LinkedIn](https://img.shields.io/badge/dylan310-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-chatterjee-frontend/)
+[![Spandan-LinkedIn](https://img.shields.io/badge/Spandan-LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spandan-chatterjee-frontend/)
 ---
 
 
